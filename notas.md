@@ -26,3 +26,6 @@ De referencia:
 -Functions
 -Clases
 (El espacio en RAM puede variar)
+
+De preferencia no cambiar el valor de una variable
+Se pude usar "Const" para definir constantes, esta no puede cambiar su valor
