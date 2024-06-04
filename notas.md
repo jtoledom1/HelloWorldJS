@@ -34,6 +34,14 @@ Con la sig linea, podemos ver que tipe de valor es la variable
 console.log(typeof VARIABLE);
 Siendo el mensaje de salida por ejemplo: string
 
+Para hacer comentarios se pueden poner 
+//COMENTARIO UNILINEA
+/*
+    COMENTARIO MULTILINEA
+*/
+
 Atajos del teclado: 
+
 ALT+FIN+FLECHA_BAJO Duplica la linea en la que estás
 CTRL+P Abre explorador para que cambies de archivo en vs
+
