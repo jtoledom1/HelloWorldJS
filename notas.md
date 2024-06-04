@@ -34,6 +34,24 @@ Con la sig linea, podemos ver que tipe de valor es la variable
 console.log(typeof VARIABLE);
 Siendo el mensaje de salida por ejemplo: string
 
+Objeto
+Se declaran las variables(propiedades) que estarán en un objeto
+let VARIABLE ="";
+Se van a incluir las propiedades en el objeto:
+let OBJETO ={
+    PROPIEDAD="",
+};
+Acceso a un objeto
+console.log(OBJETO)
+Acceso a una propiedad de un objeto:
+console.log(OBJETO.PROPIEDAD)
+console.log(OBJETO['PROPIEDAD']);
+Modificación de propiedad de un objeto:
+OBJETO['PROPIEDAD']="";
+OBJETO.PROPIEDAD="";
+Eliminar una propiedad de un objeto:
+delete OBJETO.PROPIEDAD;
+
 Para hacer comentarios se pueden poner 
 //COMENTARIO UNILINEA
 /*
