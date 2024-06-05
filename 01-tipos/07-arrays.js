@@ -5,3 +5,4 @@ console.log(animal[0]);
 animal[2]='gato';
 console.log(animal);
 console.log(typeof animal);
+console.log(animal.length);//El tamaño de nuestro array
