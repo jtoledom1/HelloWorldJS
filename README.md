@@ -1,5 +1,2 @@
 # HWJS
 HELLO WORLD JS
-
-
-al
