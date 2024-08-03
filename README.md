@@ -2,5 +2,4 @@
 HELLO WORLD JS
 
 pppppp
-ñññññ
-iiuo¿
+ñññ
